@@ -1,5 +1,5 @@
 # Base image
-FROM openzipkin/zipkin:2.21.7
+FROM openzipkin/zipkin:2.22.2
 
 # Expose ports
 EXPOSE 9410
